@@ -46,5 +46,4 @@ Commands to manage image:
 $ docker-compose -f docker-compose.prod.yml exec web python manage.py migrate --noinput
 $ docker-compose -f docker-compose.prod.yml exec web python manage.py collectstatic --no-input --clear
 ```
-# dockerized_django_template
-# dockerized_django_template
+
