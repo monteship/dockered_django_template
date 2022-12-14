@@ -1,4 +1,4 @@
-# Dockerized Django Template with Postgres, Gunicorn, and Nginx
+# Dockered Django Template with Postgres, Gunicorn, and Nginx
 
 ### About
 
